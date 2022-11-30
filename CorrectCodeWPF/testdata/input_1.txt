@@ -1,0 +1,8 @@
+;false
+123;false
+123123123123123;false
+strokasymb;false 
+1234123400;true
+1234123401;false
+1234123404;false
+3000030001;true
